@@ -151,7 +151,9 @@ img {
     
 </html>
 ```
-# OUTPUT:
+# OUTPUT
+![book cover image (2)](https://github.com/pradeeprajeswari/Ex-06-Book-Cover-Design/assets/145743112/0cc56b13-24a4-4317-a918-258b7f5b1e8b)
+:
 
 # RESULT:
 The book cover is successfully designed.
